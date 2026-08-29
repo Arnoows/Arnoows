@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arnoow Pierre! 
 
-🔓 ​*Sobre Mim*:
+🔓 ​**Sobre Mim**:
 - 🎓 *Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-se para o mercado de tecnologia*
 - ​💻​ Interesse especial em projetos web e desenvolvimento front-end
 - ​🚀​ Preparando-se para o mercado de tecnologia
