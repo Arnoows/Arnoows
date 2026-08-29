@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arnoow Pierre! 
+# 👋 Prazer, Me chamo Arnoow Pierre! 
 
 🔓 ​**Sobre Mim**:
 - 🎓 *Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS*
